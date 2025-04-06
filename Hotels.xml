@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E. 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.8">
+    <Name>Marriott</Name>
+    <Phone>602-123-4567</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>100</Number>
+      <Street>N Central Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hilton Garden Inn</Name>
+    <Phone>520-987-6543</Phone>
+    <Phone>877-345-8765</Phone>
+    <Address NearestAirport="Tucson International">
+      <Number>6575</Number>
+      <Street>S Country Club Rd</Street>
+      <City>Tucson</City>
+      <State>AZ</State>
+      <Zip>85706</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.5">
+    <Name>Hyatt Regency</Name>
+    <Phone>480-123-7890</Phone>
+    <Address NearestAirport="Phoenix-Mesa Gateway">
+      <Number>122</Number>
+      <Street>S Mill Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Holiday Inn Express</Name>
+    <Phone>623-456-7890</Phone>
+    <Address NearestAirport="Deer Valley Airport">
+      <Number>4450</Number>
+      <Street>W Peoria Ave</Street>
+      <City>Glendale</City>
+      <State>AZ</State>
+      <Zip>85302</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.6">
+    <Name>Comfort Suites</Name>
+    <Phone>480-852-7890</Phone>
+    <Address NearestAirport="Chandler Municipal">
+      <Number>1550</Number>
+      <Street>E Ray Rd</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85225</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.0">
+    <Name>La Quinta Inn</Name>
+    <Phone>928-777-1234</Phone>
+    <Phone>800-321-4321</Phone>
+    <Address NearestAirport="Prescott Regional">
+      <Number>4499</Number>
+      <Street>E State Route 69</Street>
+      <City>Prescott</City>
+      <State>AZ</State>
+      <Zip>86301</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Best Western Plus</Name>
+    <Phone>480-654-3210</Phone>
+    <Address NearestAirport="Falcon Field">
+      <Number>1563</Number>
+      <Street>S Gilbert Rd</Street>
+      <City>Gilbert</City>
+      <State>AZ</State>
+      <Zip>85296</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.9">
+    <Name>Drury Inn & Suites</Name>
+    <Phone>520-888-7777</Phone>
+    <Address NearestAirport="Tucson International">
+      <Number>733</Number>
+      <Street>E Benson Hwy</Street>
+      <City>Tucson</City>
+      <State>AZ</State>
+      <Zip>85713</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.1">
+    <Name>Aloft Hotel</Name>
+    <Phone>602-111-2222</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>445</Number>
+      <Street>N 44th St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85008</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Element Scottsdale</Name>
+    <Phone>480-888-4444</Phone>
+    <Phone>877-222-8888</Phone>
+    <Address NearestAirport="Scottsdale Airport">
+      <Number>15425</Number>
+      <Street>N Greenway Hayden Loop</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85260</Zip>
+    </Address>
+  </Hotel>
+
+</Hotels>
