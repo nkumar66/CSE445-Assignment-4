@@ -105,7 +105,7 @@
   </Hotel>
 
   <Hotel Rating="3.9">
-    <Name>Drury Inn & Suites</Name>
+    <Name>Drury Inn and Suites</Name>
     <Phone>520-888-7777</Phone>
     <Address NearestAirport="Tucson International">
       <Number>733</Number>
